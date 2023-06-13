@@ -1,6 +1,7 @@
 ---
 layout: category
-title: FACES
+title: FOOD
 category: resources
-permalink: /FACES
+permalink: /FOOD
 ---
+
