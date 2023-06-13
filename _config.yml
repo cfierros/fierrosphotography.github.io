@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "F I E R R O S   PHOTOGRAPHY"
-description:	       "a collection of moments captured in the Sonoran Desert, the Piedmont, and beyond"
-author:              "CBF"
+description:	       "moments captured in the Sonoran Desert, the Piedmont, and beyond"
+author:              "C.B. FIERROS"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
