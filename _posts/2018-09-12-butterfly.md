@@ -7,7 +7,7 @@ tags: [East Coast]
 image: fauna-6.jpg
 ---
 **38° 91' 42.898'' N 76° 96' 38.219''W**<br>
-danaus plexippus  *Monarch*<br> 
+danaus plexippus  *Monarch* <br> 
 n o r t h e r n &nbsp; &nbsp; &nbsp; p i e d m o n t <br>
 Piscataway - Nacotchtank <br>
 district of columbia <br>
