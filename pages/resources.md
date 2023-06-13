@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: FACES
 category: resources
-permalink: /resources
+permalink: /FACES
 ---
