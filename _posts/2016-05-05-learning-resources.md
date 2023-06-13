@@ -3,7 +3,7 @@ layout: post
 title: ""
 author: "CBF"
 categories: FAUNA
-tags: [Sonoran Desert]
+tags: [Sonoran Desert, Fauna]
 image: queen.jpg
 ---
 **32° 20' 56.6268'' N 110° 46' 42.9096'' W**<br>
