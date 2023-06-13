@@ -1,0 +1,11 @@
+$(function(){
+  $.each( $("img"), function(){
+    $(this).parents().show().end().show().css({
+      "background-image": "url(" + $(this).attr("src") + ")",
+      "background-size": "100%",
+      "width": $(this).width(),
+      "height": $(this).height()
+    }); // show all images so that their size isn't 0x0 - showing parents enables children to be shown too. Then replace src with decoy image and make background the real image with the proper scale in case the image is scaled.
+    $(this).attr("src","./image/cache/empty.png");
+  });
+});
