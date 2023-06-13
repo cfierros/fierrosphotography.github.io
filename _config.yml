@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "F I E R R O S &nbsp; &nbsp; &nbsp; PHOTOGRAPHY"
+title:		           "F I E R R O S &nbsp; &nbsp; PHOTOGRAPHY"
 description:	       "moments captured in the Sonoran Desert, the Piedmont, and beyond"
 author:              "C.B. FIERROS"
 
