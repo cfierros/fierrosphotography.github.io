@@ -1,7 +1,8 @@
 ---
-layout: page
-title: FAUNA
+layout: category
+title: "FAUNA"
 category: FAUNA
 permalink: /FAUNA
 ---
+
 
