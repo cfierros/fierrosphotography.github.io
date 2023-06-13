@@ -1,6 +1,6 @@
 ---
 layout: category
-title: ""
+title: "FACES"
 category: FACES
 permalink: /FACES
 ---
