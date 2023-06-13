@@ -1,7 +1,7 @@
 ---
 layout: category
 title: FOOD
-category: resources
+category: FOOD
 permalink: /FOOD
 ---
 
