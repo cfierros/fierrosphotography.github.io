@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'FLORA',  url: 'FLORA'}
 - {name: 'FAUNA', url: 'FAUNA'}
+- {name: 'FACES', url: 'FACES'}
 - {name: 'FOOD',      url: 'FOOD'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
