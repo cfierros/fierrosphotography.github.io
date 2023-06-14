@@ -11,6 +11,7 @@ menu:
 - {name: 'FAUNA', url: 'FAUNA'}
 - {name: 'FACES', url: 'FACES'}
 - {name: 'FOOD',      url: 'FOOD'}
+- {name: 'TIERRA',      url: 'TIERRA'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
