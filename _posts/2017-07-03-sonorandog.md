@@ -6,9 +6,8 @@ categories: FOOD
 tags: [Sonoran Desert]
 image: food-7.jpg
 ---
-
 ![](assets/img/food-6.jpg)
-![](food-5.jpg)
+![](assets/img/food-5.jpg)
 **32° 15' 34.524'' N 110° 55' 6.204'' W**<br>
 hotdog sonoran *Vegan Sonoran*<br> 
 s o n o r a n &nbsp; &nbsp; &nbsp; d e s e r t <br>
