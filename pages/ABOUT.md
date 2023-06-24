@@ -5,6 +5,7 @@ category: ABOUT
 permalink: /ABOUT
 ---
 
+![](me.jpg)
 
 Hi, there! I'm Christy. I am endlessly fascinated and inspired by the beauty of our Mother Earth and am eager to share how I see her through my photography. Please enjoy and revisit as I add more from my adventures! 
 
