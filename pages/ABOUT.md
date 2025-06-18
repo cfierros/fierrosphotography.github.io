@@ -7,7 +7,7 @@ permalink: /ABOUT
 
 ![](assets/img/me.jpg)
 
-I'm Christy, the person behind the lens. I am endlessly fascinated + inspired by our Mother Earth and each of her wondrous details teaches me a lesson.
+I am endlessly fascinated + inspired by our Mother Earth and each of her wondrous details teaches me a lesson.
 This is the space where I share how I see her through my photography. 
 Please enjoy and revisit as I add more from my adventures! 
 
